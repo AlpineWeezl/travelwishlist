@@ -1,0 +1,35 @@
+{
+    "IE": {
+        "Name": "Ireland",
+        "Capital": {
+            "DLST": 1.0,
+            "TD": 0.0,
+            "Flg": 2,
+            "Name": "Dublin",
+            "GeoPt": [
+                53.19,
+                -6.14
+            ]
+        },
+        "GeoRectangle": {
+            "West": -10.4785575867,
+            "East": -6.00238847733,
+            "North": 55.3879241943,
+            "South": 51.4515800476
+        },
+        "SeqID": 98,
+        "GeoPt": [
+            53.0,
+            -8.0
+        ],
+        "TelPref": "353",
+        "CountryCodes": {
+            "tld": "ie",
+            "iso3": "IRL",
+            "iso2": "IE",
+            "fips": "EI",
+            "isoN": 372
+        },
+        "CountryInfo": "http://www.geognos.com/geo/en/cc/ie.html"
+    }
+}
