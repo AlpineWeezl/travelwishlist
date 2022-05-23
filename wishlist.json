@@ -1,35 +1,233 @@
 {
-    "IE": {
-        "Name": "Ireland",
+    "BD": {
+        "Name": "Bangladesh",
         "Capital": {
-            "DLST": 1.0,
-            "TD": 0.0,
+            "DLST": "null",
+            "TD": 6.0,
             "Flg": 2,
-            "Name": "Dublin",
+            "Name": "Dhaka",
             "GeoPt": [
-                53.19,
-                -6.14
+                23.43,
+                90.24
             ]
         },
         "GeoRectangle": {
-            "West": -10.4785575867,
-            "East": -6.00238847733,
-            "North": 55.3879241943,
-            "South": 51.4515800476
+            "West": 88.0283279419,
+            "East": 92.6736831665,
+            "North": 26.6319484711,
+            "South": 20.7433319092
         },
-        "SeqID": 98,
+        "SeqID": 19,
         "GeoPt": [
-            53.0,
-            -8.0
+            24.0,
+            90.0
         ],
-        "TelPref": "353",
+        "TelPref": "880",
         "CountryCodes": {
-            "tld": "ie",
-            "iso3": "IRL",
-            "iso2": "IE",
-            "fips": "EI",
-            "isoN": 372
+            "tld": "bd",
+            "iso3": "BGD",
+            "iso2": "BD",
+            "fips": "BG",
+            "isoN": 50
         },
-        "CountryInfo": "http://www.geognos.com/geo/en/cc/ie.html"
+        "CountryInfo": "http://www.geognos.com/geo/en/cc/bd.html"
+    },
+    "BE": {
+        "Name": "Belgium",
+        "Capital": {
+            "DLST": 1.0,
+            "TD": 1.0,
+            "Flg": 2,
+            "Name": "Brussels",
+            "GeoPt": [
+                50.5,
+                4.2
+            ]
+        },
+        "GeoRectangle": {
+            "West": 2.54694366455,
+            "East": 6.40386152267,
+            "North": 51.5054512024,
+            "South": 49.4936027527
+        },
+        "SeqID": 20,
+        "GeoPt": [
+            50.5,
+            4.0
+        ],
+        "TelPref": "32",
+        "CountryCodes": {
+            "tld": "be",
+            "iso3": "BEL",
+            "iso2": "BE",
+            "fips": "BE",
+            "isoN": 56
+        },
+        "CountryInfo": "http://www.geognos.com/geo/en/cc/be.html"
+    },
+    "BF": {
+        "Name": "Burkina Faso",
+        "Capital": {
+            "DLST": "null",
+            "TD": 0.0,
+            "Flg": 2,
+            "Name": "Ouagadougou",
+            "GeoPt": [
+                12.22,
+                -1.31
+            ]
+        },
+        "GeoRectangle": {
+            "West": -5.5189166069,
+            "East": 2.40539526939,
+            "North": 15.0825948715,
+            "South": 9.40110683441
+        },
+        "SeqID": 21,
+        "GeoPt": [
+            13.0,
+            -2.0
+        ],
+        "TelPref": "226",
+        "CountryCodes": {
+            "tld": "bf",
+            "iso3": "BFA",
+            "iso2": "BF",
+            "fips": "UV",
+            "isoN": 854
+        },
+        "CountryInfo": "http://www.geognos.com/geo/en/cc/bf.html"
+    },
+    "BG": {
+        "Name": "Bulgaria",
+        "Capital": {
+            "DLST": 1.0,
+            "TD": 2.0,
+            "Flg": 2,
+            "Name": "Sofia",
+            "GeoPt": [
+                42.41,
+                23.19
+            ]
+        },
+        "GeoRectangle": {
+            "West": 22.3711624146,
+            "East": 28.6121692657,
+            "North": 44.2176475525,
+            "South": 41.2420768738
+        },
+        "SeqID": 22,
+        "GeoPt": [
+            43.0,
+            25.0
+        ],
+        "TelPref": "359",
+        "CountryCodes": {
+            "tld": "bg",
+            "iso3": "BGR",
+            "iso2": "BG",
+            "fips": "BU",
+            "isoN": 100
+        },
+        "CountryInfo": "http://www.geognos.com/geo/en/cc/bg.html"
+    },
+    "BA": {
+        "Name": "Bosnia and Herzegovina",
+        "Capital": {
+            "DLST": 1.0,
+            "TD": 1.0,
+            "Flg": 2,
+            "Name": "Sarajevo",
+            "GeoPt": [
+                43.52,
+                18.25
+            ]
+        },
+        "GeoRectangle": {
+            "West": 15.7189435959,
+            "East": 19.6222267151,
+            "North": 45.239200592,
+            "South": 42.5461044312
+        },
+        "SeqID": 17,
+        "GeoPt": [
+            44.0,
+            18.0
+        ],
+        "TelPref": "387",
+        "CountryCodes": {
+            "tld": "ba",
+            "iso3": "BIH",
+            "iso2": "BA",
+            "fips": "BK",
+            "isoN": 70
+        },
+        "CountryInfo": "http://www.geognos.com/geo/en/cc/ba.html"
+    },
+    "BB": {
+        "Name": "Barbados",
+        "Capital": {
+            "DLST": "null",
+            "TD": -4.0,
+            "Flg": 2,
+            "Name": "Bridgetown",
+            "GeoPt": [
+                13.06,
+                -59.37
+            ]
+        },
+        "GeoRectangle": {
+            "West": -59.6489295959,
+            "East": -59.4203720093,
+            "North": 13.32725811,
+            "South": 13.0398426056
+        },
+        "SeqID": 18,
+        "GeoPt": [
+            13.1,
+            -59.32
+        ],
+        "TelPref": "1 246",
+        "CountryCodes": {
+            "tld": "bb",
+            "iso3": "BRB",
+            "iso2": "BB",
+            "fips": "BB",
+            "isoN": 52
+        },
+        "CountryInfo": "http://www.geognos.com/geo/en/cc/bb.html"
+    },
+    "WF": {
+        "Name": "Wallis and Futuna",
+        "Capital": {
+            "DLST": "null",
+            "TD": 12.0,
+            "Flg": 2,
+            "Name": "Mata-Utu",
+            "GeoPt": [
+                -13.57,
+                -171.56
+            ]
+        },
+        "GeoRectangle": {
+            "West": -178.206802368,
+            "East": -176.128753662,
+            "North": -13.2142496109,
+            "South": -14.3286018372
+        },
+        "SeqID": 234,
+        "GeoPt": [
+            -13.18,
+            -176.12
+        ],
+        "TelPref": "681",
+        "CountryCodes": {
+            "tld": "wf",
+            "iso3": "WLF",
+            "iso2": "WF",
+            "fips": "WF",
+            "isoN": 876
+        },
+        "CountryInfo": "http://www.geognos.com/geo/en/cc/wf.html"
     }
 }
